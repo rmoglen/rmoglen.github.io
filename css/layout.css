@@ -331,7 +331,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: photoshop 2s ease;
 }
 .GAMS {
-  	width: 35%;
+  	width: 25%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
@@ -340,13 +340,13 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
-.AWS {
-  	width: 20%;
+.GIS {
+  	width: 25%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .Python {
-  	width: 25%;
+  	width: 60%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
