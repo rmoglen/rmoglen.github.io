@@ -598,18 +598,21 @@
 </br></br>
 
             <h2 style="color:#fff;">Travel</h2>
+            <h3 style="color:#b0b0b0;">Click the map to see places I've visited! </h3>
         </br>
 
          
-<div id="mapid" style="width: 600px; height: 400px;"></div>
+<div id="mapid" style="text-align: center; width: 100%; height: 450px;"></div>
 <script>
 
-   var mymap = L.map('mapid').setView([40.227348, -95.761074], 200);
+   var mymap = L.map('mapid').setView([37.0902, -95.7129], 3);
+   var photoImg = '<img src="images/map/enchantedrock.jpg" height="354px" width="264px"/>';
 
-   L.tileLayer.provider('Stadia.AlidadeSmoothDark').addTo(mymap);
+   L.tileLayer.provider('OpenStreetMap.Mapnik').addTo(mymap);
 
-   L.marker([51.5, -0.09]).addTo(mymap)
-      .bindPopup("<b>Hello world!</b><br />I am a popup.");
+   L.marker([30.506130, -98.820064]).addTo(mymap)
+      .bindPopup("<center>Enchanted Rock State Park | June 2021</center>"  + "</br>"+ photoImg);
+
    mymap.on('click', onMapClick);
 
 </script>
