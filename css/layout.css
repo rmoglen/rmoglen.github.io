@@ -1164,4 +1164,4 @@ li.active a, a:hover, a:active {
 #mapid {max-width: 100%;
     height: auto;
     width: auto\9; /* ie8 */
-   z-index:  -1;}
+   z-index:  0;}
