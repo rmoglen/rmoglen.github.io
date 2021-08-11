@@ -609,13 +609,32 @@
 
    L.tileLayer.provider('OpenStreetMap.Mapnik').addTo(mymap);
 
-   var enchantedImg = '<img src="images/map/enchantedrock.jpg" height="354px" width="264px"/>';
    L.marker([30.506130, -98.820064]).addTo(mymap)
-      .bindPopup("<center>Enchanted Rock State Park | June 2021</center>"  + "</br>"+ enchantedImg);
+      .bindPopup("<center>Enchanted Rock State Park | June 2021</center>"  + "</br>"+ '<img src="images/map/enchantedrock.jpg" height="354px" />');
 
-   var gsmImg = '<img src="images/map/gsm.jpg" height="354px" width="264px"/>';
    L.marker([35.6542777,-83.4456029]).addTo(mymap)
-      .bindPopup("<center>Great Smokey Mountains | May 2021</center>"  + "</br>"+ gsmImg);
+      .bindPopup("<center>Great Smokey Mountain National Park | May 2021</center>"  + "</br>"+ '<img src="images/map/gsm.jpg" height="354px"/>');
+
+   L.marker([42.4532982,-72.8016151]).addTo(mymap)
+      .bindPopup("<center>DAR State Forest | July 2021</center>"  + "</br>"+ '<img src="images/map/1.jpg" height="354px"/>');
+
+   L.marker([30.2690253,-97.7859134]).addTo(mymap)
+      .bindPopup("<center>Lady Bird Lake | June 2021</center>"  + "</br>"+ '<img src="images/map/2.jpg" height="354px"/>');
+
+   L.marker([38.6641033,-78.485977]).addTo(mymap)
+      .bindPopup("<center>Luray Caverns | May 2021</center>"  + "</br>"+ '<img src="images/map/3.jpg" height="354px"/>');
+
+   L.marker([38.7624528,-78.2988164]).addTo(mymap)
+      .bindPopup("<center>Shenandoah National Park | May 2021</center>"  + "</br>"+ '<img src="images/map/4.jpg" height="354px"/>');
+
+   L.marker([29.3706314,-95.6294125]).addTo(mymap)
+      .bindPopup("<center>Brazos Bend State Park | March 2021</center>"  + "</br>"+ '<img src="images/map/5.jpg" height="354px"/>');
+
+   L.marker([34.522297,-93.0947882]).addTo(mymap)
+      .bindPopup("<center>Hot Springs National Park | January 2021</center>"  + "</br>"+ '<img src="images/map/6.jpg" height="354px"/>');
+
+   L.marker([37.1954994,-86.2108077]).addTo(mymap)
+      .bindPopup("<center>Mammoth Cave National Park | January 2021</center>"  + "</br>"+ '<img src="images/map/7.jpg" height="354px"/>');
 
    mymap.on('click', onMapClick);
 
