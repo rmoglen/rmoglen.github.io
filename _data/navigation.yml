@@ -1,7 +1,7 @@
 # main links 
-main:
+main: https://rmoglen.github.io
   - title: "Publications"
-    url: https://rmoglen.github.io/publications/
+    url: /publications/
 
   - title: "Talks"
     url: /talks/      

@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello world! I am a fourth-year Ph.D. candidate studying operations research in the Operations Research and Industrial Engineering Program (ORIE) at the University of Texas at Austin. My current work explores the food-energy-water nexus through the lens of disaster resilience and planning. My advisor is Prof. Benjamin Leibowicz.
+Hello world! I am a fourth-year Ph.D. candidate in the Operations Research and Industrial Engineering Program (ORIE) at the University of Texas at Austin. My current work explores the food-energy-water nexus through the lens of disaster resilience and planning. My advisor is Prof. Benjamin Leibowicz.
 
-I earned my M.S. in operations research from the University of Maryland. My M.S. advisor was Dr. Steven Gabriel.  Our team, in collaboration with our corporate partner Whisker Labs, aimed to bring optimal demand-side management to the residential sector with the aid of IoT devices. 
+I earned my M.S. in operations research from the University of Maryland, College Park. My advisor was Prof. Steven Gabriel.  Our team, in collaboration with our corporate partner Whisker Labs, aimed to bring optimal demand-side management to the residential sector with the aid of IoT devices. 
 
 In my spare time, I enjoy hiking, climbing, and cooking. 
 
