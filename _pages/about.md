@@ -5,13 +5,14 @@ permalink: /
 subtitle: <a href='https://www.orie.utexas.edu/'>University of Texas at Austin</a>
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>Engineering Teaching Center II</p>
     <p>204 E Dean Keaton</p>
     <p>Austin, TX 78751</p>
+    <p>rmoglen@utexas.edu</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
