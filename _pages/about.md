@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:<a href='https://www.cs.utexas.edu/'>University of Texas at Austin</a>
+subtitle: <a href='https://www.cs.utexas.edu/'>University of Texas at Austin</a>
 
 profile:
   align: right
