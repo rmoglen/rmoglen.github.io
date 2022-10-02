@@ -70,10 +70,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: rmoglen
 gitlab_username: # your GitLab user name
 twitter_username: RachelMoglen
-linkedin_username: # your LinkedIn user name
+linkedin_username: RachelMoglen
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-0769-248X
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -89,7 +89,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: # your instagram id
+instagram_id: rachel.lee13
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
@@ -110,7 +110,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -144,7 +144,7 @@ collections:
     permalink: /projects/:path/
 
 news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 5 # leave blank to include all the news in the `_news` folder
+news_limit: 3 # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
