@@ -47,11 +47,29 @@
       year: 2017
       description:
         - Coded and deployed tool on AWS Lambda to notify users of extreme energy prices in ERCOT
-      - title: Engineering Intern for a Water Resources Consulting Firm
+    - title: Engineering Intern for a Water Resources Consulting Firm
       institution: LimnoTech, Washington, D.C.
       year: 2016
       description:
         - Researched and documented data sources as part of a Harmful Algal Bloom (HAB) modeling project
+
+- title: Service
+  type: time_table
+  contents:
+    - title: Diversity, Equity, and Inclusion Committee Member, Department of Mechanical Engineering, University of Texas at Austin 
+      year: 2022
+    - title: Secretary, UT Austin INFORMS Student Chapter, University of Texas at Austin 
+      year: 2021 - now
+    - title: Secretary, Mechanical Engineering Graduate Student Board, University of Texas at Austin 
+      year: 2021 - now
+    - title: Mentor, Department of Mechanical Engineering, University of Texas at Austin 
+      year: 2021
+    - title: President, UT Austin INFORMS Student Chapter, University of Texas at Austin 
+      year: 2020 - 2021
+    - title: Society of Women in Engineering Mentor, University of Texas at Austin   
+      year: 2020
+    - title: Scientific Committee Member, Trans-Atlantic Infraday Conference 
+      year: 2018 - 2019
 
 - title: Honors and Awards
   type: time_table
