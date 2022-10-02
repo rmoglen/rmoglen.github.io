@@ -5,18 +5,18 @@ permalink: /
 subtitle: <a href='https://www.orie.utexas.edu/'>University of Texas at Austin</a>
 
 profile:
-  align: center
+  align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Engineering Teaching Center II</p>
-    <p>204 E Dean Keaton</p>
+    <p>ETC II, Ste. 5.112</p>
+    <p>204 E Dean Keaton St</p>
     <p>Austin, TX 78751</p>
     <p>rmoglen@utexas.edu</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Hello world! I am a fourth-year Ph.D. candidate in the Operations Research and Industrial Engineering Program (ORIE) at the University of Texas at Austin. My current work explores the interdependencies between infrastructure systems through the lens of disaster resilience. My advisor is Prof. Benjamin Leibowicz.
