@@ -36,20 +36,17 @@
       year: 2020 - 2021
       description:
         - Modeling water distribution system dynamics for disaster resilience studies
-
     - title: Pipeline Risk Intern for the Distribution Integrity Management Team
       institution: Washington Gas, Springfield Virginia
       year: 2019
       description:
         - Developed ArcGIS-based risk model for natural threats to natural gas distribution pipelines
         - Created scripts in for extracting relevant natural features
-
     - title: Research and Development Intern for Demand Response Team
       institution: Whisker Labs, Germantown, MD 
       year: 2017
       description:
         - Coded and deployed tool on AWS Lambda to notify users of extreme energy prices in ERCOT
-
       - title: Engineering Intern for a Water Resources Consulting Firm
       institution: LimnoTech, Washington, D.C.
       year: 2016
@@ -59,9 +56,6 @@
 - title: Service
   type: time_table
   contents:
-    # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-    #   year: 2015-now
-    #   description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
     - title: Diversity, Equity, and Inclusion Committee Member, Department of Mechanical Engineering, University of Texas at Austin 
       year: 2022
     - title: Secretary, UT Austin INFORMS Student Chapter, University of Texas at Austin 
