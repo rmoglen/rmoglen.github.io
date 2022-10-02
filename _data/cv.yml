@@ -2,96 +2,126 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Rachel Moglen
     - name: Languages
-      value: English, German
+      value: English (native), French (advanced)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Operations Research
+      institution: University of Texas at Austin
+      year: 2024 (anticipated)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Applying optimization techniques to improve the resilience of interdependent infrastructure systems
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: MS in Mechanical Engineering
+      institution: University of Maryland, College Park
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Applied Stochastic and Deterministic Optimization to the energy sector for improved flexibility
+        - Placed as the University of Maryland <b>Dean’s M.S. Research Award Competition Department Finalist</b>
+        - A 3-minute video describing my research can be found <a href="https://youtu.be/fT-QFImdMiY>here</a>
+    - title: BS in Civil Engineering, with Honors in Engineering
+      institution: University of Maryland, College Park
+      year: 2017
+      description:
+        - Developed life cycle predictive model of algae bloom probabilities on the Chesapeake Bay
+        - Thesis project completed in fulfillment of the <b>University of Maryland Engineering Honors Program</b>
+        - Earned the <b>University of Maryland College of Engineering Most Outstanding Research Award</b>
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Intern for Energy and Water Systems Integration 
+      institution: Sandia National Laboratory, Albuquerque, NM 
+      year: Summer 2020, Summer 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Modeling water distribution system dynamics for disaster resilience studies
+
+    - title: Pipeline Risk Intern for the Distribution Integrity Management Team
+      institution: Washington Gas, Springfield Virginia
+      year: Summer 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Developed ArcGIS-based risk model for natural threats to natural gas distribution pipelines
+        - Created scripts in for extracting relevant natural features
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research and Development Intern for Demand Response Team
+      institution: Whisker Labs, Germantown, MD 
+      year: Summer 2017
       description:
+        - Coded and deployed tool on AWS Lambda to notify users of extreme energy prices in ERCOT
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+      - title: Engineering Intern for a Water Resources Consulting Firm
+      institution: LimnoTech, Washington, D.C.
+      year: Summer 2016
+      description:
+        - Researched and documented data sources as part of a Harmful Algal Bloom (HAB) modeling project
 
-- title: Open Source Projects
+
+- title: Service
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    #   year: 2015-now
+    #   description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Diversity, Equity, and Inclusion Committee Member, Department of Mechanical Engineering, University of Texas at Austin 
+      year: 2022
+    - title: Secretary, UT Austin INFORMS Student Chapter, University of Texas at Austin 
+      year: 2021 - Present
+    - title: Secretary, Mechanical Engineering Graduate Student Board, University of Texas at Austin 
+      year: 2021 - Present
+    - title: Mentor, Department of Mechanical Engineering, University of Texas at Austin 
+      year: 2021
+    - title: President, UT Austin INFORMS Student Chapter, University of Texas at Austin 
+      year: 2020 - 2021
+    - title: Society of Women in Engineering Mentor, University of Texas at Austin   
+      year: 2020
+    - title: Scientific Committee Member, Trans-Atlantic Infraday Conference 
+      year: 2018 - 2019
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019- Present
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Cockrell School of Engineering Fellow, University of Texas at Austin
+    - year: 2019 - 2022
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - NSF Innovations at the Nexus of Food-Energy-Water Systems (INFEWS) Fellow
+    - year: 2021
       items:
-        - Description 1.
-        - Description 2.
+        - Professional Development Award, University of Texas at Austin
+    - year: 2020
+      items:
+        - Macro-Energy Systems Fellow, Stanford University
+        - Professional Development Award, University of Texas at Austin
+    - year: 2019
+      items:
+        - Dean’s M.S. Research Award Competition Department Finalist, University of Maryland
+    - year: 2017
+      items:
+        - College of Engineering Most Outstanding Research Award, University of Maryland
+        - Graduated with Honors in Engineering, University of Maryland
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Climbing, ceramics, painting, sewing, cooking, hiking
