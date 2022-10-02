@@ -14,11 +14,6 @@
       year: 2024
       description:
         - Applying optimization techniques to improve the resilience of interdependent infrastructure systems
-        # - Description 2.
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
     - title: MS in Mechanical Engineering
       institution: University of Maryland, College Park
       year: 2019
@@ -33,7 +28,6 @@
         - Developed life cycle predictive model of algae bloom probabilities on the Chesapeake Bay
         - Thesis project completed in fulfillment of the <b>University of Maryland Engineering Honors Program</b>
         - Earned the <b>University of Maryland College of Engineering Most Outstanding Research Award</b>
-
 
 - title: Experience
   type: time_table
@@ -67,9 +61,6 @@
 - title: Service
   type: time_table
   contents:
-    # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-    #   year: 2015-now
-    #   description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
     - title: Diversity, Equity, and Inclusion Committee Member, Department of Mechanical Engineering, University of Texas at Austin 
       year: 2022
     - title: Secretary, UT Austin INFORMS Student Chapter, University of Texas at Austin 
@@ -108,19 +99,7 @@
       items:
         - College of Engineering Most Outstanding Research Award, University of Maryland
         - Graduated with Honors in Engineering, University of Maryland
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
+        
 - title: Other Interests
   type: list
   contents:
