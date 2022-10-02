@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cs.utexas.edu/'>University of Texas at Austin</a>
+subtitle: <a href='https://www.orie.utexas.edu/'>University of Texas at Austin</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello world! I am a fourth-year Ph.D. candidate in the Operations Research and Industrial Engineering Program (ORIE) at the University of Texas at Austin. My current work explores the food-energy-water nexus through the lens of disaster resilience and planning. My advisor is Prof. Benjamin Leibowicz.
+Hello world! I am a fourth-year Ph.D. candidate in the Operations Research and Industrial Engineering Program (ORIE) at the University of Texas at Austin. My current work explores the interdependencies between infrastructure systems through the lens of disaster resilience. My advisor is Prof. Benjamin Leibowicz.
 
 I earned my M.S. in operations research from the University of Maryland, College Park. My advisor was Prof. Steven Gabriel.  Our team, in collaboration with our corporate partner Whisker Labs, aimed to bring optimal demand-side management to the residential sector with the aid of IoT devices. 
 
