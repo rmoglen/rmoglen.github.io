@@ -14,20 +14,7 @@
       year: 2024
       description:
         - Applying optimization techniques to improve the resilience of interdependent infrastructure systems
-    - title: MS in Mechanical Engineering
-      institution: University of Maryland, College Park
-      year: 2019
-      description:
-        - Applied Stochastic and Deterministic Optimization to the energy sector for improved flexibility
-        - Placed as the University of Maryland <b>Dean’s M.S. Research Award Competition Department Finalist</b>
-        - A 3-minute video describing my research can be found <a href="https://youtu.be/fT-QFImdMiY>here</a>
-    - title: BS in Civil Engineering, with Honors in Engineering
-      institution: University of Maryland, College Park
-      year: 2017
-      description:
-        - Developed life cycle predictive model of algae bloom probabilities on the Chesapeake Bay
-        - Thesis project completed in fulfillment of the <b>University of Maryland Engineering Honors Program</b>
-        - Earned the <b>University of Maryland College of Engineering Most Outstanding Research Award</b>
+
 
 - title: Experience
   type: time_table
