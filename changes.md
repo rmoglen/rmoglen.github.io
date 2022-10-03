@@ -1,5 +1,5 @@
-# Biblography
-+ Made paper titles into links by editing `layouts/bib.html`: 
+# Biliography
++ Made paper titles into links by editing `_layouts/bib.html`: 
   + I changed `<div class="title">{{entry.title}}</div>` to `<div class="title"><a href="{{entry.html}}">{{entry.title}}</a></div>` and added `html = {URL-HERE},` to the entry in `papers.bib`. 
   + To remove the now redundant `html` button that will now appear, I commented out the lines `{%- if entry.html %} <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>{%- endif %}` 
 
@@ -20,5 +20,5 @@
 + `enable_navbar_social: true`
 + `last_updated: true`
 
-# Misc. oher small changes:
+# Misc. other small changes:
 + `social: false` in `_pages\about.md` to remove the social links at the bottom of the about page
