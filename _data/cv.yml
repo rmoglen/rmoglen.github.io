@@ -20,7 +20,7 @@
       year: 2019
       description:
         - Advised by <a href="http://www.stevenagabriel.umd.edu/">Prof. Steven Gabriel</a>
-        - Applied Stochastic and Deterministic Optimization to the energy sector for improved flexibility
+        - Applied stochastic and deterministic optimization to the energy sector for improved flexibility
     - title: BS in Civil Engineering
       institution: University of Maryland, College Park
       year: 2017
@@ -32,13 +32,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Graduate Intern for Energy and Water Systems Integration 
+    - title: Graduate Intern for the <a href="https://energy.sandia.gov/programs/energy-water/">Energy and Water Systems Integration Department</a>
       institution: Sandia National Laboratory, Albuquerque, NM 
       year: 2020 - 2021
       description:
         - Modeling water distribution system dynamics for disaster resilience studies
-    - title: Pipeline Risk Intern for the Distribution Integrity Management Team
-      institution: Washington Gas, Springfield Virginia
+    - title: Pipeline Risk Modeling Intern for the Distribution Integrity Management Team
+      institution: <a href="https://www.washingtongas.com/">Washington Gas</a>, Springfield, VA
       year: 2019
       description:
         - Developed ArcGIS-based risk model for natural threats to natural gas distribution pipelines
@@ -47,9 +47,9 @@
       institution: Whisker Labs, Germantown, MD 
       year: 2017
       description:
-        - Coded and deployed tool on AWS Lambda to notify users of extreme energy prices in ERCOT
+        - Coded and deployed tool on AWS Lambda to notify users of extreme energy prices in <a href="https://www.ercot.com/">ERCOT</a>
     - title: Engineering Intern for a Water Resources Consulting Firm
-      institution: LimnoTech, Washington, D.C.
+      institution: LimnoTech, Washington, DC
       year: 2016
       description:
         - Researched and documented data sources as part of a Harmful Algal Bloom (HAB) modeling project
