@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: portfolio
+permalink: /portfolio/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: false #[work, fun]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
