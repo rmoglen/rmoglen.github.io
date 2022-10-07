@@ -3,7 +3,7 @@ layout: page
 title: portfolio
 permalink: /portfolio/
 description: A growing collection of your cool projects.
-nav: true
+nav: false
 nav_order: 2
 display_categories: false #[work, fun]
 horizontal: false
