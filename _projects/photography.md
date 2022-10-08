@@ -7,7 +7,7 @@ importance: 2
 category: work
 ---
 
-
+<h2 class="year">{{"Nature"}}</h2>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/25.jpeg" class="img-fluid rounded z-depth-1" %}
