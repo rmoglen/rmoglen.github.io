@@ -40,13 +40,12 @@ category: work
     </div>
 </div>
 
-
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/13.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/13.jpeg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/14.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/14.jpeg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
