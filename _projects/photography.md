@@ -7,7 +7,13 @@ importance: 2
 category: work
 ---
 
-<h2 class="year">{{"landscapes"}}</h2>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/30.jpeg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/25.jpeg" class="img-fluid rounded z-depth-1" %}
@@ -16,15 +22,9 @@ category: work
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/30.jpeg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/29.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
-</div> -->
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,8 +41,6 @@ category: work
     </div>
 </div>
 
-<h2 class="year">{{"portraits"}}</h2>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/15.jpeg" class="img-fluid rounded z-depth-1" %}
@@ -57,8 +55,6 @@ category: work
         {% include figure.html path="assets/img/17.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-<h2 class="year">{{"urban views"}}</h2>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
