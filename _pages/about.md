@@ -21,7 +21,11 @@ social: false  # includes social icons at the bottom of the page
 
 Hello, world! I am a fourth-year Ph.D. candidate in the [Operations Research and Industrial Engineering Program (ORIE)](https://www.orie.utexas.edu/) at the University of Texas at Austin. My current work explores the interdependencies between infrastructure systems through the lens of disaster resilience. My advisor is [Prof. Benjamin Leibowicz](https://sites.utexas.edu/leibowicz/). I am the secretary for the [UT Austin INFORMS student chapter](https://connect.informs.org/universityoftexasaustin/home) and the [Mechanical Engineering Graduate Student Board](https://sites.utexas.edu/megsb/).
 
-I earned my M.S. in [mechanical engineering](https://enme.umd.edu/) from the University of Maryland, College Park under the supervision of [Prof. Steven Gabriel](http://www.stevenagabriel.umd.edu/).  In collaboration with our corporate partner Whisker Labs (https://www.whiskerlabs.com/), we aimed to bring optimal demand-side management to the residential sector with the aid of IoT devices. 
+I earned my M.S. in [mechanical engineering](https://enme.umd.edu/) from the University of Maryland, College Park under the supervision of [Prof. Steven Gabriel](http://www.stevenagabriel.umd.edu/).  In collaboration with our corporate partner [Whisker Labs](https://www.whiskerlabs.com/), we aimed to bring optimal demand-side management to the residential sector with the aid of IoT devices. 
 
 In my spare time, I enjoy hiking, climbing, and creating [art](https://rmoglen.github.io/art/). 
+
+<h2 class="year">research interests</h2>
+energy policy analysis; network modeling; disaster resilience; energy-water nexus; stochastic optimization
+
 
