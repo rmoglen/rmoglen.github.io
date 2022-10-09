@@ -25,7 +25,7 @@ I earned my M.S. in [mechanical engineering](https://enme.umd.edu/) from the Uni
 
 In my spare time, I enjoy hiking, climbing, and creating [art](https://rmoglen.github.io/art/). 
 
-<h2 class="year">research interests</h2>
-energy policy analysis; network modeling; disaster resilience; energy-water nexus; stochastic optimization
+
+**Research interests:** energy policy analysis; network modeling; disaster resilience; energy-water nexus; stochastic optimization
 
 
