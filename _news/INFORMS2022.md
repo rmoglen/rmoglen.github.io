@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I will be presenting at the INFORMS Annual Meeting 2022
+title: I will be presenting at the 2022 INFORMS Annual Meeting
 date: 2022-10-13 16:11:00-0400
 inline: false
 ---
