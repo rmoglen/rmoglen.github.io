@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Trading the Texas summer for castles and cafes at IIASA
+title: Trading the Texas summer for castles and cafes - at IIASA
 date: 2022-07-22 16:11:00-0400
 inline: false
 ---
 
-Trading the Texas summer for castles and cafes at the [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/)
+I am visiting the [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/) on a grant funded by [Texas Global](https://global.utexas.edu/). I will be exploring the upstream and spillover effects fo consumer behavior changes using [the EPA's SAGE model](https://www.epa.gov/environmental-economics/cge-modeling-regulatory-analysis).
 
 
 <div class="row">
