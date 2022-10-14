@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: I will be giving my presenation titled "Restoration of Power Infrastructure Following a Nuclear Detonation" at INFORMS 2022
 date: 2022-10-13 16:11:00-0400
 inline: false
 ---
