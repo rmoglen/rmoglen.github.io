@@ -1,11 +1,11 @@
 ---
 layout: post
-title: I will be giving my presenation titled "Restoration of Power Infrastructure Following a Nuclear Detonation" at INFORMS 2022
+title: I will be presenting at the INFORMS Annual Meeting 2022
 date: 2022-10-13 16:11:00-0400
 inline: false
 ---
 
-I will be giving my presenation titled "Restoration of Power Infrastructure Following a Nuclear Detonation" at [INFORMS 2022](https://www.abstractsonline.com/pp8/#!/10693/presentation/3403).
+I will be giving my presenation titled "[Restoration of Power Infrastructure Following a Nuclear Detonation](https://www.abstractsonline.com/pp8/#!/10693/presentation/3403)" at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/).
 
 _October 18, 2022, 12:30 PM - 1:45 PM in M - Marriott 7_
 
