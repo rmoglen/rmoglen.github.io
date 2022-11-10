@@ -11,7 +11,7 @@ profile:
   address: >
     <p>ETC II, Ste. 5.112</p>
     <p>204 E Dean Keaton St</p>
-    <p>Austin, TX 78751</p>
+    <p>Austin, TX 78712</p>
     <p>rmoglen@utexas.edu</p>
 
 news: true  # includes a list of news items
