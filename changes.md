@@ -23,3 +23,4 @@
 # Misc. other small changes:
 + `social: false` in `_pages\about.md` to remove the social links at the bottom of the about page
 + `--global-bg-color: #{$white_color};` and `--global-theme-color: #{$purple-color};` and ` --global-hover-color: #{$purple-color};` for both light and dark (scoll down for dark) mode can be controlled from `_sass\_themes.scss` and the color available can be viewed or changed in `_sass\_variables.scss`
++ `font-weight: bolder;` and `text-align: center;` and remove `font-family: monospace` in `.address {` in `_sass\_base.scss`
