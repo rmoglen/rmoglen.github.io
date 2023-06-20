@@ -78,3 +78,4 @@ I also enjoy climbing, hiking, and creating [art](https://rmoglen.github.io/art/
   }
 </style>
 
+<script src="https://www.goodreads.com/review/custom_widget/144515825.Rachel's%20bookshelf:%20read?cover_position=left&cover_size=medium&num_books=5&order=d&shelf=read&show_author=1&show_cover=1&show_rating=1&show_review=1&show_tags=0&show_title=1&sort=date_read&widget_bg_color=FFFFFF&widget_bg_transparent=true&widget_border_width=1&widget_id=1687302079&widget_text_color=000000&widget_title_size=medium&widget_width=full" type="text/javascript" charset="utf-8"></script>
