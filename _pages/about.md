@@ -23,7 +23,7 @@ Hello, world! I am a fifth-year Ph.D. candidate in the [Operations Research and 
 
 I earned my M.S. in [mechanical engineering](https://enme.umd.edu/) from the University of Maryland, College Park under the supervision of [Prof. Steven Gabriel](http://www.stevenagabriel.umd.edu/).  In collaboration with our corporate partner [Whisker Labs](https://www.whiskerlabs.com/), we aimed to bring optimal demand-side management to the residential sector with the aid of IoT devices. My B.S. is in [civil engineering](https://cee.umd.edu/) with a focus on water resources, also from the University of Maryland, College Park.
 
-I also enjoy climbing, hiking, and creating [art](https://rmoglen.github.io/art/). 
+I also enjoy climbing, [reading](https://www.goodreads.com/rachelmoglen), and creating [art](https://rmoglen.github.io/art/). 
 
 
 **Research interests:** [macro-energy systems](https://www.macroenergysystems.org/); network modeling; infrastructure resilience; energy-water nexus; planning under uncertainty
