@@ -9,13 +9,13 @@ Today, I graduated from the University of Texas at Austin with a PhD in Operatio
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/news/grad_1.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/news/grad_1.JPG" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/news/grad_2.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/news/grad_2.JPG" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
