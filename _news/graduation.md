@@ -5,8 +5,18 @@ date: 2024-05-11 16:11:00-0400
 inline: false
 ---
 
-I successfully defended my dissertation titled "Disaster Preparedness and Restoration for Interconnected Infrastructure Systems". Thank you to everyone who supported me on this journey!
+Today, I graduated from the University of Texas at Austin with a PhD in Operations Research and Industrial Engineering!
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/news/grad_1.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/news/grad_2.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 **Acknowledgements**
 
@@ -16,7 +26,7 @@ This work would not have been possible without the outstanding mentorship and gu
 
 I would also like to thank the members of my dissertation committee: Prof. John Hasenbein, Prof. Erhan Kutanoglu, and Prof. Lina Sela. I am grateful to have had you and your expertise contribute to this dissertation. It's been a joy to share in our joint research passions. Thank you all for your time and valuable insights. 
 
-Thank you to all my research collaborators: Shagun Gupta, Eiji Kawai, Julius Barth, Katherine Klise, Alexis Kwasinski, and Grant Cruse. I've learned so much from all of you. This dissertation is more principled, more impactful, and more comprehensive for your contributions.
+Thank you to all my research collaborators: Shagun Gupta, Eiji Kawai, Julius Barth, Katherine Klise, Alexis Kwasinski, and Grant Cruse. This dissertation is more principled, more impactful, and more comprehensive for your contributions.
 
 I am grateful to the faculty and students of the Operations Research and Industrial Engineering (ORIE) Program for creating a welcoming and collegial environment. You created an atmosphere for learning both inside and outside the classroom. I would especially like to thank my colleagues in the Leibowicz Research Group, past and present. Waking up for a 9 am meeting on Fridays was never easy, but you always made it worthwhile. Thank you for all your feedback and for sharing your research with me. I would also like to thank all the friends I've made since I started my Ph.D. journey. You were a welcome distraction when I wanted one (and not too often when I didn't). More importantly, you were always there offer suggestions on challenges big and small. I've learned so much for all of you. Thank you in particular to Shagun, Connor, Zhuangzhuang, Cem, Julius, Hank, Helen, Hannah, and Ella.
 
