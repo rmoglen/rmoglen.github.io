@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Graduation
-date: 2024-05-11 16:11:00-0400
+date: 2023-05-11 16:11:00-0400
 inline: false
 ---
 
@@ -12,6 +12,7 @@ Today, I graduated from the University of Texas at Austin with a PhD in Operatio
         {% include figure.html path="assets/img/news/grad_1.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/news/grad_2.jpg" title="" class="img-fluid rounded z-depth-1" %}
