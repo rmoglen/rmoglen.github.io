@@ -1,7 +1,8 @@
 ---
 layout: post
+title: I joined the [Electric Power Research Institute (EPRI)](https://www.epri.com/) as an Energy Systems Modeler! 
 date: 2024-05-20 07:59:00-0400
-inline: true
+inline: False
 ---
 
 

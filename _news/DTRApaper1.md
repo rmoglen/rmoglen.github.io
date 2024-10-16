@@ -1,7 +1,8 @@
 ---
 layout: post
+title: My paper “Optimal Restoration of Power Infrastructure Following a Disaster with Environmental Hazards” was published in [Socio-Economic Planning Sciences](https://doi.org/10.1016/j.seps.2024.101974)
 date: 2024-11-14 07:59:00-0400
-inline: true
+inline: false
 ---
 
 I'm excited to share my newest paper “Optimal Restoration of Power Infrastructure Following a Disaster with Environmental Hazards” that was recently published in [Socio-Economic Planning Sciences](https://doi.org/10.1016/j.seps.2024.101974).
