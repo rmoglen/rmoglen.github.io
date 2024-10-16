@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I will be presenting at the 2024 INFORMS Annual Meeting
-date: 2024-10-23 16:11:00-0400
+date: 2024-10-14 16:11:00-0400
 inline: false
 ---
 
