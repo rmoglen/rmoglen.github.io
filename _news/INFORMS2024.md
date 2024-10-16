@@ -5,7 +5,7 @@ date: 2024-10-14 16:11:00-0400
 inline: false
 ---
 
-I will be giving my presenation titled "The Value of Coordination for Restoring Power and Wireless Networks" at [INFORMS 2024](https://meetings.informs.org/wordpress/seattle2024/).
+I will be giving my presentation titled "The Value of Coordination for Restoring Power and Wireless Networks" at [INFORMS 2024](https://meetings.informs.org/wordpress/seattle2024/).
 
 _October 23, 2024, 8:00 AM - 9:15 AM PT in Regency - 701_
 
