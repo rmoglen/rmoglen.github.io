@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My paper “Optimal Restoration of Power Infrastructure Following a Disaster with Environmental Hazards” was published in Socio-Economic Planning Sciences
-date: 2024-11-14 07:59:00-0400
+date: 2024-06-06 07:59:00-0400
 inline: false
 ---
 
