@@ -11,4 +11,4 @@ In this paper, we consider how hazardous environmental conditions, like flooding
  
 A big thank you to my collaborators: Benjamin Leibowicz, Alexis Kwasinski, and Grant Cruse!
 
-Our paper is available at [https://doi.org/10.1016/j.seps.2024.101974](https://doi.org/10.1016/j.seps.2024.101974)
+Our paper is available at: [https://doi.org/10.1016/j.seps.2024.101974](https://doi.org/10.1016/j.seps.2024.101974)
