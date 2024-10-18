@@ -6,7 +6,7 @@ subtitle: <a href="https://www.epri.com/"">Electric Power Research Institute (EP
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.png
   image_circular: true # crops the image to make it circular
   address: 
 
